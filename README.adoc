@@ -1,1 +1,18 @@
 = Hacks.js Logos
+
+This repository contains logos and related brand artworks for the Hacks.js project.
+
+The Hacks.js logo has two formats:
+
+* A *logomark* aka pictorial mark, which is a logo based on an icon or symbolic image.
+* A *logotype* aka wordmark, which is text-based logo that reveals the full brand name.
+
+There is also a *watermark* version of the logotype, which is intended for use on white backgrounds.
+
+== License
+
+The assets distributed via this public repository are built from source files in another private repository. All assets in this repository are licensed to the general public under the https://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International] license. This license lets anyone use, copy and redistribute these logos for **non-commercial purposes**. Anyone is allowed to convert these files to other digital formats, such as PNG and JPEG, and to change the size of the logos. But users are not allowed to make material changes to the design of these logos, and to distribute those modified versions.
+
+
+''''
+Copyright © 2023 Kieran Potts — link:./LICENSE.txt[CC BY-NC-ND 4.0]
